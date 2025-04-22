@@ -1,12 +1,26 @@
 {
   "name": "semantic-graph",
-  "version": "0.1.0",
+  "version": "0.0.1-alpha",
   "main": "index.js",
   "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+  " graph",
+    "reactive",
+    "semantic",
+    "declarative",
+    "logic",
+    "computation",
+    "projection",
+    "dataflow",
+    "reactivity",
+    "epistemic",
+    "modal",
+    "state",
+    "dependency-graph"
+  ],
   "author": "mastergray",
   "license": "MIT",
   "description": "Semantic computation using reactive graph projections",
