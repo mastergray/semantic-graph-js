@@ -1,0 +1,21 @@
+{
+  "name": "semantic-graph",
+  "version": "0.1.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mastergray",
+  "license": "MIT",
+  "description": "Semantic computation using reactive graph projections",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastergray/semantic-graph.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mastergray/semantic-graph/issues"
+  },
+  "homepage": "https://github.com/mastergray/semantic-graph#readme"
+}
